@@ -1,5 +1,8 @@
 _repo: The-art-of-music-Vol-05-of-14-b-The-voice-and-vocal-music_74367
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74367-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Mason, Daniel Gregory
@@ -33,6 +36,8 @@ creator:
     gutenberg_agent_id: '24993'
     url: http://www.gutenberg.org/2009/agents/24993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74367#The-art-of-music-Vol-05-of-14-b-The-voice-and-vocal-music
 gutenberg_issued: '2024-09-04'
 gutenberg_type: Text
 identifiers:
